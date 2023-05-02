@@ -25,9 +25,9 @@ class Queue {
 }
 
 var myQueue = Queue()
-MyQueue.enqueue(item: "Peggy")
-MyQueue.enqueue(item: "Larry")
-MyQueue.enqueue(item: "Serena")
+myQueue.enqueue(item: "Peggy")
+myQueue.enqueue(item: "Larry")
+myQueue.enqueue(item: "Serena")
 
 print(myQueue.peek()!)
 print(myQueue.peek()!)
